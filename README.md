@@ -1,7 +1,7 @@
-TypeScript React Hello World Demo
+TypeScript React Ahooks useRequest Demo
 =================================
 
-一个最简单的Typescript + react项目，使用了webpack
+使用ahooks的useRequest来发送异步请求
 
 ```
 npm install
